@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\DemoOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\DemoOne\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CFE001-E07A-4158-A743-A1415000C68F}|..\\StudentService.APIGateway\\StudentService.APIGateway\\StudentService.APIGateway.csproj|d:\\nirmal-israel\\projects\\microservices\\demoone\\studentservice.apigateway\\studentservice.apigateway\\configuration\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42143D-F063-432F-B214-DBC0D9879BD6}|..\\StudentService.Core\\StudentService.Core\\StudentService.Core.csproj|d:\\nirmal-israel\\projects\\microservices\\demoone\\studentservice.core\\studentservice.core\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CFE001-E07A-4158-A743-A1415000C68F}|..\\StudentService.APIGateway\\StudentService.APIGateway\\StudentService.APIGateway.csproj|d:\\nirmal-israel\\projects\\microservices\\demoone\\studentservice.apigateway\\studentservice.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC279D3-2696-4933-84CB-A439EB3D81DA}|..\\StudentService.API\\StudentService.API\\StudentService.API.csproj|d:\\nirmal-israel\\projects\\microservices\\demoone\\studentservice.api\\studentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42143D-F063-432F-B214-DBC0D9879BD6}|..\\StudentService.Core\\StudentService.Core\\StudentService.Core.csproj|d:\\nirmal-israel\\projects\\microservices\\demoone\\studentservice.core\\studentservice.core\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42143D-F063-432F-B214-DBC0D9879BD6}|..\\StudentService.Core\\StudentService.Core\\StudentService.Core.csproj|d:\\nirmal-israel\\projects\\microservices\\demoone\\studentservice.core\\studentservice.core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC279D3-2696-4933-84CB-A439EB3D81DA}|..\\StudentService.API\\StudentService.API\\StudentService.API.csproj|d:\\nirmal-israel\\projects\\microservices\\demoone\\studentservice.api\\studentservice.api\\extensions\\studentserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC279D3-2696-4933-84CB-A439EB3D81DA}|..\\StudentService.API\\StudentService.API\\StudentService.API.csproj|d:\\nirmal-israel\\projects\\microservices\\demoone\\studentservice.api\\studentservice.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\DemoOne\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\DemoOne\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-12T10:25:55.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.APIGateway\\StudentService.APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StudentService.APIGateway\\StudentService.APIGateway\\Program.cs",
+              "ToolTip": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.APIGateway\\StudentService.APIGateway\\Program.cs",
+              "RelativeToolTip": "..\\StudentService.APIGateway\\StudentService.APIGateway\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:38:55.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.APIGateway\\StudentService.APIGateway\\Configuration\\ocelot.json",
+              "RelativeDocumentMoniker": "..\\StudentService.APIGateway\\StudentService.APIGateway\\Configuration\\ocelot.json",
+              "ToolTip": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.APIGateway\\StudentService.APIGateway\\Configuration\\ocelot.json",
+              "RelativeToolTip": "..\\StudentService.APIGateway\\StudentService.APIGateway\\Configuration\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T09:32:26.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.API\\StudentService.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StudentService.API\\StudentService.API\\Program.cs",
+              "ToolTip": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.API\\StudentService.API\\Program.cs",
+              "RelativeToolTip": "..\\StudentService.API\\StudentService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:52:48.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.Core\\StudentService.Core\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentService.Core\\StudentService.Core\\Interfaces\\IStudentService.cs",
+              "ToolTip": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.Core\\StudentService.Core\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "..\\StudentService.Core\\StudentService.Core\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:34:27.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.Core\\StudentService.Core\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentService.Core\\StudentService.Core\\Services\\StudentService.cs",
+              "ToolTip": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.Core\\StudentService.Core\\Services\\StudentService.cs",
+              "RelativeToolTip": "..\\StudentService.Core\\StudentService.Core\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:36:18.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.Core\\StudentService.Core\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "..\\StudentService.Core\\StudentService.Core\\Entities\\Student.cs",
+              "ToolTip": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.Core\\StudentService.Core\\Entities\\Student.cs",
+              "RelativeToolTip": "..\\StudentService.Core\\StudentService.Core\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:32:44.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentServiceExtension.cs",
+              "DocumentMoniker": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.API\\StudentService.API\\Extensions\\StudentServiceExtension.cs",
+              "RelativeDocumentMoniker": "..\\StudentService.API\\StudentService.API\\Extensions\\StudentServiceExtension.cs",
+              "ToolTip": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.API\\StudentService.API\\Extensions\\StudentServiceExtension.cs",
+              "RelativeToolTip": "..\\StudentService.API\\StudentService.API\\Extensions\\StudentServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:26:52.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.API\\StudentService.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\StudentService.API\\StudentService.API\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Nirmal-Israel\\Projects\\Microservices\\DemoOne\\StudentService.API\\StudentService.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "..\\StudentService.API\\StudentService.API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:23:29.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

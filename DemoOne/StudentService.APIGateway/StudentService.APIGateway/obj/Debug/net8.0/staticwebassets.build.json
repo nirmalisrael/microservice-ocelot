@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "10Qo/z5xGE8iuOAppbY0lPWQw8ItWvlUgq7FA9H8Ajs=",
+  "Source": "StudentService.APIGateway",
+  "BasePath": "_content/StudentService.APIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
