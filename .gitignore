@@ -1,25 +1,28 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+﻿# Bin and Obj directories
+**/bin/
+**/obj/
 
-/DemoOne/DemoOne/.vs/DemoOne/CopilotIndices/17.13.441.19478/CodeChunks.db-shm
-/DemoOne/DemoOne/.vs/DemoOne/FileContentIndex/5735915f-6759-48d5-abc8-b74a9e134a72.vsidx
-/DemoOne/DemoOne/.vs/DemoOne/CopilotIndices/17.13.441.19478
-/DemoOne/DemoOne/.vs/DemoOne/FileContentIndex
-/DemoOne/DemoOne/.vs/
-/DemoOne/DemoOne/.vs/DemoOne/v17/.suo
-/DemoOne/DemoOne/.vs/DemoOne/v17/DocumentLayout.backup.json
-/DemoOne/DemoOne/.vs/DemoOne/v17/DocumentLayout.json
-/DemoOne/StudentService.API/StudentService.API/bin/Debug/net8.0/StudentService.API.dll
-/DemoOne/StudentService.API/StudentService.API/bin/Debug/net8.0/StudentService.API.exe
-/DemoOne/StudentService.API/StudentService.API/bin/Debug/net8.0/StudentService.API.pdb
+# Visual Studio user files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-/DemoOne/StudentService.API/StudentService.API/bin/
-/DemoOne/StudentService.API/StudentService.API/obj/
-/DemoOne/StudentService.APIGateway/StudentService.APIGateway/bin/
-/DemoOne/StudentService.APIGateway/StudentService.APIGateway/obj/
-/DemoOne/StudentService.Infra/StudentService.Infra/bin/
-/DemoOne/StudentService.Infra/StudentService.Infra/obj/
-/DemoOne/StudentService.Test/StudentService.Test/bin/
-/DemoOne/StudentService.Test/StudentService.Test/obj/
-/DemoOne/StudentService.API/StudentService.API/obj/
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+.vs/
+
+# App specific
+appsettings.Development.json
+*.deps.json
+*.runtimeconfig.*
+*.staticwebassets.runtime.json

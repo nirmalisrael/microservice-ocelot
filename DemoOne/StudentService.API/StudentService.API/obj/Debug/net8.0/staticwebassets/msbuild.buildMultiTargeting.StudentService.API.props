@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\StudentService.API.props" />
-</Project>
